@@ -170,7 +170,7 @@ jobs:
           TARGET_REPO="${{ github.repository }}"
           REV="${{ matrix.rev }}"
           FILENAME="${{ matrix.cache_file }}"
-          BASE_URL="https://github.com/${TARGET_REPO}/releases/download/toolchain-cache"
+          BASE_URL="https://github.com/Wildkernels/releases/download/toolchain-cache"
           
           echo "🔍 Checking if $FILENAME exists in mirror..."
           
