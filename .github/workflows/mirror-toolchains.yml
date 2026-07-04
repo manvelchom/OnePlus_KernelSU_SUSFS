@@ -1,20 +1,4 @@
-Skip to content
-manvelchom
-EmberHeart_OnePlus11
-Repository navigation
-Code
-Pull requests
-Actions
-Projects
-Security and quality
-Insights
-Settings
-🛠️ ToolChains Generator
-🛠️ ToolChains Generator #4
-All jobs
-Run details
-Workflow file for this run
-.github/workflows/mirror-toolchains.yml at 7d5da31
+
 name: 🛠️ ToolChains Generator
 
 permissions:
