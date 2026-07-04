@@ -38,7 +38,7 @@ runs:
         cd "$GITHUB_WORKSPACE"
         
         TAG_NAME="${{ inputs.cache_bucket }}"
-        BASE_URL="https://github.com/${TARGET_REPO}/releases/download/$TAG_NAME"
+        BASE_URL="https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/releases/download/$TAG_NAME"
         ASSETS_URL="https://github.com/${TARGET_REPO}/releases/expanded_assets/$TAG_NAME"
         
         ARIA2_OPTS=(
